@@ -4,7 +4,9 @@
 **Tools Used:** Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Slicers, Timelines)
 
 ### **Project Description:**  
-This project involved analysing supplement sales data across Canada, the UK, and the USA from 2020 to 2025. Using Excel’s Power Query and Pivot capabilities, the dataset was cleaned, structured, and visualised to uncover trends, market differences, and platform performance. The dashboard provides an intuitive, interactive view of key sales metrics and patterns over time.
+<p align="justify">
+This project involved analysing supplement sales data across Canada, the UK, and the USA from 2020 to 2025. Using Excel’s Power Query and Pivot capabilities, the dataset was cleaned, structured, and visualised to uncover trends, market differences, and platform performance. The dashboard provides an intuitive, interactive view of key sales metrics and patterns over time.</p>
+
 
 Key features of the dashboard include:
 
@@ -28,21 +30,37 @@ Interactive slicers and a timeline were included to allow filtering by:
 - **Market Normalisation:** By 2025, sales trends stabilised and returned to familiar patterns, indicating a maturing market.
 - **Performance Shifts:** The USA, while initially trailing, overtook the UK in 2024, suggesting increased market penetration or improved product engagement.
 
-This dashboard serves as a dynamic business intelligence tool for stakeholders, enabling strategic planning, inventory management, and targeted marketing through clear, actionable insights.
+<p align="justify">This dashboard serves as a dynamic business intelligence tool for stakeholders, enabling strategic planning, inventory management, and targeted marketing through clear, actionable insights.</p>
 
 ## **Dashboard Overview:**
 ![Supplement](Supplement.png)
 
-## **Project 2**
-**Title:** Sales Records
+## **Project 2**  
+**Title:** Sales Records  
 
-**Technology Used** Microsoft SQL Server
+**Technology Used:** Microsoft SQL Server  
 
-**SQL Code:** [Sales Records/data interogation and manipulation](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/commit/7161c0e66e10e1445c0f14d90d89605d55ee1b9b)
+**SQL Code:** [Sales Records – Data Interrogation and Manipulation](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/commit/7161c0e66e10e1445c0f14d90d89605d55ee1b9b)  
 
-**SQL Skills Used:**
+**SQL Functions Used:**  
+- **Data Extraction:**  
+  - **SELECT** – to retrieve relevant data fields  
+  - **WHERE** – to apply filters and isolate specific records  
 
-### **Project Description:**
+- **Data Integration:**  
+  - **JOIN** – to combine data across multiple related tables  
+
+- **Data Organisation:**  
+  - **ORDER BY** – to sort the output in a defined sequence  
+
+- **Data Manipulation:**  
+  - **INSERT INTO** – to add new records into the dataset  
+
+### **Project Description:**  
+<p align="justify">This project explored sales data across multiple relational tables with the goal of extracting valuable insights and demonstrating foundational SQL querying techniques.  
+The work involved filtering datasets using conditions, integrating tables to enhance context, sorting results for analytical clarity, and inserting new sample data records to simulate realistic workflows.  
+Through these techniques, the project showcases core SQL capabilities used in day-to-day data interrogation tasks—laying a strong foundation for more advanced visualisation and dashboarding efforts.</p>
+
  
 
  
