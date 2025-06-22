@@ -1,3 +1,5 @@
+## **Data Analytics Projects**
+
 ## **Project 1**  
 **Title:** [Supplement Sales Performance 2020–2025](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Supplement_Sales.xlsx)
 
@@ -35,6 +37,7 @@ Interactive slicers and a timeline were included to allow filtering by:
 ## **Dashboard Overview:**
 ![Supplement](Supplement.png)
 
+
 ## **Project 2**  
 **Title:** Sales Records  
 
@@ -60,6 +63,37 @@ Interactive slicers and a timeline were included to allow filtering by:
 The work involved filtering datasets using conditions, integrating tables to enhance context, sorting results for analytical clarity, and inserting new sample data records to simulate realistic workflows.  
 Through these techniques, the project showcases core SQL capabilities used in day-to-day data interrogation tasks—laying a strong foundation for more advanced visualisation and dashboarding efforts.</p>
 
- 
 
+## **Project 3**  
+**Title:** [Netflix by the Numbers](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Netflix%20by%20the%20Numbers.pbix)
+
+**Tools Used:** Microsoft Power BI (Power Query, Data Modelling, Slicers, Interactive Visuals)
+
+### **Project Description:**  
+This project analysed Netflix’s global content additions across more than 100 countries between 2008 and 2021. Built entirely in Power BI, the dashboard presents a detailed view of how the platform’s catalogue evolved—by region, content type, and audience classification.
+
+Key features of the dashboard include:
+
+- **Total Films Added (Card):** Summary of all titles added over the 14-year timeframe  
+- **Films Added by Year (Line Chart):** Displays a steady growth in content, with a sharp rise from 2014 and a sudden decline in 2020  
+- **Content Type Breakdown (Donut Chart):** Compares the proportion of Movies versus TV Shows  
+- **Top 10 Countries by Content Volume (Ribbon Chart):** Highlights regional contributions and year-on-year shifts  
+- **Content Ratings (Funnel Chart):** Categorises titles by viewer rating (e.g. TV-MA, PG, R)
+
+Interactive slicers were included for:
+
+- **Unknown Director, Cast, and Country:** Filters to examine metadata completeness  
+- **Release Year:** Enables year-specific trend analysis  
+- **Category:** Allows users to drill into genres such as Drama, Comedy, or Documentary
+
+### **Key Findings:**  
+- **Rapid Growth Phase:** Content additions increased sharply from 2014, mirroring Netflix’s international expansion  
+- **Content Mix Evolution:** Movies remained dominant, though TV show additions steadily increased after 2017  
+- **Regional Leaders:** The United States led in volume, followed by India and the United Kingdom  
+- **Metadata Completeness Issues:** A notable portion of entries lacked key fields such as director, cast, or country—especially in earlier years  
+- **Rating Distribution:** The most frequent ratings were TV-MA and PG, indicating a focus on mature and family-oriented content  
+- **2020 Decline:** The dip in new titles during 2020 may reflect the global impact of the COVID-19 pandemic on film production and distribution pipelines. Widespread filming delays, studio closures, and disruptions to international content delivery likely contributed to the temporary slowdown.
+
+## **Dashboard Overview**
+![Netflix by the Numbers](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Netflix.png)
  
