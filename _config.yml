@@ -1,9 +1,11 @@
 title: Al-Hassan Badamasi
 logo: Al.png
-description: | 
-I’m a data analyst with a strong foundation in transforming complex datasets into actionable insights, backed by two years of experience across industries. My expertise lies in using Excel, SQL, and Power BI to uncover patterns, build interactive dashboards, and support data-driven decision-making.
-I have a track record of working with structured and unstructured data, integrating sources like SQL Server and Azure, and cleaning and shaping them via Power Query. Whether it's uncovering sales trends, developing performance dashboards, or streamlining migration projects to the cloud, I bring a balance of analytical rigour, technical fluency, and business context.
-My background in both data analysis and human resources gives me a unique edge in understanding organisational dynamics and communicating insights that stakeholders can act on with confidence
+description: |
+  I’m a data analyst with a strong foundation in transforming complex datasets into actionable insights, backed by two years of experience across industries. My expertise lies in using Excel, SQL, and Power BI to uncover patterns, build interactive dashboards, and support data-driven decision-making.
+
+  I have a track record of working with structured and unstructured data, integrating sources like SQL Server and Azure, and cleaning and shaping them via Power Query. Whether it's uncovering sales trends, developing performance dashboards, or streamlining migration projects to the cloud, I bring a balance of analytical rigour, technical fluency, and business context.
+
+  My background in both data analysis and human resources gives me a unique edge in understanding organisational dynamics and communicating insights that stakeholders can act on with confidence.
 #show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
