@@ -30,4 +30,4 @@ Interactive slicers and a timeline were included to allow filtering by:
 This dashboard serves as a dynamic business intelligence tool for stakeholders, enabling strategic planning, inventory management, and targeted marketing through clear, actionable insights.
 
 ## **Dashboard Overview:**
-[Supplement](Supplement.png)
+![Supplement](Supplement.png)
