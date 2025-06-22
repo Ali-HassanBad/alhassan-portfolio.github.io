@@ -95,5 +95,5 @@ Interactive slicers were included for:
 - **2020 Decline:** The dip in new titles during 2020 may reflect the global impact of the COVID-19 pandemic on film production and distribution pipelines. Widespread filming delays, studio closures, and disruptions to international content delivery likely contributed to the temporary slowdown.
 
 ## **Dashboard Overview**
-![Netflix by the Numbers](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Netflix.png)
+![Netflix the the Numbers](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Netflix.png)
  
