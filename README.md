@@ -1,5 +1,5 @@
 ## **Project 1**  
-**Title:** [Supplement Sales Performance 2020–2025](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Supplement_Sales_Weekly_Expanded.csv.xlsx)
+**Title:** [Supplement Sales Performance 2020–2025](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/blob/main/Supplement_Sales.xlsx)
 
 **Tools Used:** Microsoft Excel (Power Query, Pivot Tables, Pivot Charts, Slicers, Timelines)
 
