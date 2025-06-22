@@ -42,19 +42,18 @@ Interactive slicers and a timeline were included to allow filtering by:
 
 **SQL Code:** [Sales Records – Data Interrogation and Manipulation](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/commit/7161c0e66e10e1445c0f14d90d89605d55ee1b9b)  
 
-**SQL Functions Used:**  
-- **Data Extraction:**  
-  - **SELECT** – to retrieve relevant data fields  
-  - **WHERE** – to apply filters and isolate specific records  
+**SQL Functions Used:** 
+- **Data Retrieval (SELECT):** Queried and extracted specific information from the database.
 
-- **Data Integration:**  
-  - **JOIN** – to combine data across multiple related tables  
+- **Data Filtering (WHERE):** Applied filters to select relevant data, including filtering by ranges and lists.
+ 
+- **Data Source Specification (FROM):** Specified the tables used as data sources for retrieval.
 
-- **Data Organisation:**  
-  - **ORDER BY** – to sort the output in a defined sequence  
+- **Data Integration (JOIN):** Combined data across tables to create a unified view.
 
-- **Data Manipulation:**  
-  - **INSERT INTO** – to add new records into the dataset  
+- **Data Sorting (ORDER BY):** Organised results to highlight patterns and trends.
+
+- **Data Manipulation (INSERT INTO):** Added new records into the dataset for analysis and testing.
 
 ### **Project Description:**  
 <p align="justify">This project explored sales data across multiple relational tables with the goal of extracting valuable insights and demonstrating foundational SQL querying techniques.  
