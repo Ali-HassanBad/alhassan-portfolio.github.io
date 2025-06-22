@@ -32,3 +32,17 @@ This dashboard serves as a dynamic business intelligence tool for stakeholders, 
 
 ## **Dashboard Overview:**
 ![Supplement](Supplement.png)
+
+## **Project 2**
+**Title:** Sales Records
+
+**Technology Used** Microsoft SQL Server
+
+**SQL Code:** [Sales Records/data interogation and manipulation](https://github.com/Ali-HassanBad/alhassan-portfolio.github.io/commit/7161c0e66e10e1445c0f14d90d89605d55ee1b9b)
+
+**SQL Skills Used:**
+
+### **Project Description:**
+ 
+
+ 
